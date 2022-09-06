@@ -8,7 +8,7 @@ subtitle: Lecturer (Assitant Professor) at SKL-MEAC, Zhengzhou, P.R. China.
 profile:
   align: right
   image: jiezhao.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   #address: >
     #<p>No. 62, Kexuedadao Street, Zhongyuan District</p>
     #<p>Zhengzhou, 450002, People's Republic of China.</p>
