@@ -224,7 +224,7 @@ scholar:
   first_name: [Jie]
 
   #style: apa
-  style: acm-sig-proceedings-long-author-list
+  style: plain
   locale: en
 
   source: /_bibliography/
