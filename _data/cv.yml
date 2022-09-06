@@ -21,12 +21,10 @@
           #contents:
             #- Sub-description 1.
             #- Sub-description 2.
-  contents:
     - title: Master's degree
       institution: National Digital Switching System Engineering &amp; Technological Research Center, Zhengzhou, China
       year: 2012
       #ms thesis: A Combined Language and Polyhedral Approach for Heterogeneous Parallelism
-  contents:
     - title: Bachalor's degree
       institution: Tsinghua University, Beijing, China
       year: 2005
