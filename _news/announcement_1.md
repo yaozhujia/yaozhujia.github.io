@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-09-06 16:00:00+0800
 inline: true
 ---
 
-A simple inline announcement.
+I am planning to quit SKL-MEAC and now looking for a new position, with both research faculty (preferred) and industry job opportunities welcomed. Please <a href="mailto:yaozhujiajie@gmail.com">contact me</a> if your think my research interests and experiences match your expectation.
