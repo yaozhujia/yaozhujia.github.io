@@ -63,27 +63,38 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - IEEE/ACM MICRO-53 Best Paper Nominees
 
-- title: Academic Interests
+    - year: 2019
+      items: 
+        - HPC China 2019 Outerstanding Paper Award
+
+    - year: 2017
+      items: 
+        - SIGPLAN Grant for PLDI 2017
+
+    - year: 2016
+      items: 
+        - SIGPLAN PLMW scholarship for OOPSLA 2016
+
+    - year: 2013
+      items: 
+        - Excellent Master Dissertation Award, 1st place
+    
+
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: High-performance code generation through polyhedral approaches
+      #items: 
+        #- Description 1.
+        #- Description 2.
+    - title: Optimizing compilers towards deep learning workloads
+    - title: Interaction between programming frameworks and libraries
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Other Interests
+  #type: list
+  #contents:
+    #- <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
