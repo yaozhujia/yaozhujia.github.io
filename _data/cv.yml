@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD degree
       institution: PSL Research University (obtained at École Normale Supérieure), Paris, French
       year: 2018
       PhD thesis: A Combined Language and Polyhedral Approach for Heterogeneous Parallelism
