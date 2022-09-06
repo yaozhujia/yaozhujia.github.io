@@ -53,12 +53,13 @@
       institution: Huawei Technologies France SASU, Paris, China
       year: 2018.05 - 2018.09
 
-- title: Open Source Projects
+- title: Grants
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Deep Learning and Tensor Compilers based on the Polyheral Model
+      year: 2021.01 - 2024.12
+      description:
+        - National Natural Science Foundation of China
 
 - title: Honors and Awards
   type: time_table
