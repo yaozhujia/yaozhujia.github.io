@@ -6,8 +6,11 @@ nav: true
 nav_order: 2
 ---
 
-<div class="research d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+<div class="research">
   {% for entry in site.data.research %}
+  <div class="card mt-3 p-3 d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+    <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+    <div>
       {% if entry.type == "list" %}
         {% include cv/list.html %}
       {% elsif entry.type == "map" %}
@@ -19,5 +22,7 @@ nav_order: 2
       {% else %}
         {{ entry.contents }}
       {% endif %}
+    </div>
+  </div>
   {% endfor %}
 </div>
