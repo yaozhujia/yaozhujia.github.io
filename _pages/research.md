@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-<article>
+<div class="post">
 {% for entry in site.data.research %}
 <div class="card mt-3 p-3">
   <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
@@ -25,4 +25,5 @@ nav_order: 2
   </div>
 </div>
 {% endfor %}
-</article>
+
+</div>
