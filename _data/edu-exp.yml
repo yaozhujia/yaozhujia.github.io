@@ -1,0 +1,44 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD degree
+      institution: PSL Research University (obtained at École Normale Supérieure), Paris, French
+      year: 2018
+      PhD thesis: A Combined Language and Polyhedral Approach for Heterogeneous Parallelism
+      #description:
+        #- Description 2.
+        #- title: Description 3.
+          #contents:
+            #- Sub-description 1.
+            #- Sub-description 2.
+    - title: Master's degree
+      institution: National Digital Switching System Engineering &amp; Technological Research Center, Zhengzhou, China
+      year: 2012
+      #ms thesis: A Combined Language and Polyhedral Approach for Heterogeneous Parallelism
+    - title: Bachalor's degree
+      institution: Tsinghua University, Beijing, China
+      year: 2005
+      #ms thesis: A Combined Language and Polyhedral Approach for Heterogeneous Parallelism
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Lecturer
+      institution: State Key Laboratory of Mathematical Engineering and Advanced Computing, Zhengzhou, China
+      year: 2016.04 - present
+
+    - title: Senior Consultant
+      institution: Stream Computing Co., Ltd., Hangzhou, China
+      year: 2020.04 - present
+
+    - title: Senior Consultant
+      institution: Huawei Technologies Co., Ltd., Hangzhou and Beijing, China
+      year: 2019.02 - 2021.04
+
+    - title: Visiting Scholar
+      institution: Alibaba Group, China
+      year: 2020.04 - 2021.04
+
+    - title: Consultant
+      institution: Huawei Technologies France SASU, Paris, France
+      year: 2018.05 - 2018.09
