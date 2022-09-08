@@ -1,3 +1,13 @@
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: High-performance code generation through polyhedral approaches
+      #items: 
+        #- Description 1.
+        #- Description 2.
+    - title: Optimizing compilers towards deep learning workloads
+    - title: Interaction between programming frameworks and libraries
+
 - title: Grants
   type: time_table
   contents:
@@ -28,19 +38,3 @@
     - year: 2013
       items: 
         - Excellent Master Dissertation Award, 1st place
-    
-
-- title: Research Interests
-  type: nested_list
-  contents:
-    - title: High-performance code generation through polyhedral approaches
-      #items: 
-        #- Description 1.
-        #- Description 2.
-    - title: Optimizing compilers towards deep learning workloads
-    - title: Interaction between programming frameworks and libraries
-
-#- title: Other Interests
-  #type: list
-  #contents:
-    #- <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

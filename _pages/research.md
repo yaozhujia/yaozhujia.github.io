@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-<div class="research">
+<div class="research d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for entry in site.data.research %}
   <div class="card mt-3 p-3">
     <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
