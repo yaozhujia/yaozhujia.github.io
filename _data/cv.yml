@@ -1,13 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Jie Zhao
-    - name: Date of Birth
-      value: Feburary 1987
-    - name: Languages
-      value: Mandarion (Mothertongue), English (Flent), French (Basic)
-
 - title: Education
   type: time_table
   contents:
