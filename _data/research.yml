@@ -12,8 +12,11 @@
         - Operator compilers that investigate automatic loop transformations and memory managements for tensor operations. See the <a href='../assets/pdf/pldi2021-paper.pdf'>PLDI 2021</a> and <a href='../assets/pdf/pact2022-paper.pdf'>PACT 2022</a> papers for more details.
     - title: Numerical Program Analysis
       items:
-        - Numerical error detecion for floating-point expressions, e.g., the <a href='../assets/pdf/pldi2023-paper.pdf'>PLDI 2023</a> paper.
-        - Numerical program optimzation systems. A published paper regarding this issue is available at <a href='../assets/pdf/popl2023-paper.pdf'>POPL 2023</a>.
+        - Floating-point error detection, e.g., the <a href='../assets/pdf/pldi2023-paper.pdf'>PLDI 2023</a> paper.
+        - Repairing numerical programs through expression rewriting. A published paper regarding this issue is available at <a href='../assets/pdf/popl2023-paper.pdf'>POPL 2023</a>.
+    - title: Quantum Computing
+      items:
+        - Beginner for this emerging research area. Achievements will be released soon...
 
 - title: Grants &amp; Fundings
   type: time_table
