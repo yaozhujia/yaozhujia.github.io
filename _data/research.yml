@@ -1,12 +1,12 @@
 - title: Research Interests
   type: nested_list
   contents:
-    - title: High-performance code generation through polyhedral approaches
-      #items: 
-        #- Description 1.
-        #- Description 2.
-    - title: Optimizing compilers towards deep learning workloads
-    - title: Interaction between programming frameworks and libraries
+    - title: Code Generation and Optimization
+      items: 
+        - through polyhedral compilation techniques, building more systematic code generators. Examples of this topic include the <a href="cc2018-paper.pdf" style="text-decoration: none">CC 2018</a>, etc. papers.
+        - for high-performance architectures.
+    - title: Deep learning compilers
+    - title: Numerical Program Analysis
 
 - title: Grants
   type: time_table
