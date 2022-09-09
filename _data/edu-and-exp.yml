@@ -4,9 +4,8 @@
     - title: PhD
       institution: <a href='https://psl.eu/'>PSL Research University</a> (obtained at <a href='http://www.di.ens.fr'>Département d'Informatique</a> of <a href='http://www.ens.fr'>École Normale Supérieure</a>), Paris, France
       year: 2018
-      PhD thesis: <a href='../assets/pdf/thesis.pdf'>A Combined Language and Polyhedral Approach for Heterogeneous Parallelism</a>
-      #description:
-        #- PhD these is avaliable at <a href='../assets/pdf/thesis.pdf'>here</a>.
+      description:
+        - title: Phd thesis (<a href='../assets/pdf/thesis.pdf'>A Combined Language and Polyhedral Approach for Heterogeneous Parallelism</a>)
         #- title: Description 3.
           #contents:
             #- Sub-description 1.
