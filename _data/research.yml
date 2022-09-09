@@ -10,6 +10,7 @@
         - that study the graph-level fusion, e.g., the <a href='../assets/pdf/mlsys2022-paper.pdf'>MLSys 2022</a> and <a href='../assets/pdf/hpca2023-paper.pdf'>HPCA 2023</a> papers.
         - that investigate operator-level transformations. See the <a href='../assets/pdf/pldi2021-paper.pdf'>PLDI 2021</a>, <a href='../assets/pdf/pact2022-paper.pdf'>PACT 2022</a>, etc. papers for more details.
     - title: Numerical Program Analysis
+      items:
         - for by first detecting errors in floating-point expressions. The <a href='../assets/pdf/pldi2023-paper.pdf'>PLDI 2023</a> paper is an example towards this research topic.
         - for and next optimizing these rounding-errors. We already published one paper at <a href='../assets/pdf/popl2023-paper.pdf'>POPL 2023</a> and <a href='../assets/pdf/hpca2023-paper.pdf'>HPCA 2023</a> regarding this issue.
 
@@ -19,7 +20,14 @@
     - title: Deep Learning and Tensor Compilers based on the Polyheral Model
       year: 2021.01 - 2024.12
       description:
-        - National Natural Science Foundation of China
+        - National Natural Science Foundation of China (Grant No. )
+        - Total cost: 240,000 CNY
+    - title: Polyhedral Compilation Techniques for Heterogeneous Architectures
+      year: 2018.01 - 2020.12
+      description:
+        - National Natural Science Foundation of China (Grant No. )
+        - A joint project with team of <a href='../assets/pdf/mlsys2022-paper.pdf'>Jidong Zhai</a> at Tsinghua University and <a href='../assets/pdf/mlsys2022-paper.pdf'>Jidong Zhai</a> 
+        - Total cost: 800,000 CNY
 
 - title: Honors and Awards
   type: time_table
