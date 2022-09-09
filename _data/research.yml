@@ -18,10 +18,10 @@
       items:
         - Beginner for this emerging research area. Achievements will be released soon...
 
-- title: Grants &amp; Fundings
+- title: Funding &amp; Grants
   type: time_table
   contents:
-    - title: Deep Learning and Tensor Compilers based on the Polyheral Model
+    - title: Deep Learning and Tensor Compilers based on the Polyhedral Model
       year: 2021.01 - 2024.12
       description:
         - National Natural Science Foundation of China (Grant No. U20A20226)
@@ -50,7 +50,7 @@
 
     - year: 2019
       items: 
-        - HPC China 2019 Outerstanding Paper Award
+        - HPC China 2019 Outstanding Paper Award
 
     - year: 2017
       items: 
