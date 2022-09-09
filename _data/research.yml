@@ -3,8 +3,8 @@
   contents:
     - title: Code Generation and Optimization
       items: 
-        - through polyhedral compilation techniques, building more systematic code generators. Examples include the <a href='#/cc2018-paper.pdf'>CC 2018</a> etc. papers.
-        - for high-performance architectures.
+        - through polyhedral compilation techniques. Related publications include <a href='../cc2018-paper.pdf'>CC 2018</a>, <a href='../assets/pdf/taco2019.pdf'>TACO 2019</a> etc.
+        - for high-performance architectures. Related publications
     - title: Deep learning compilers
     - title: Numerical Program Analysis
 
