@@ -3,9 +3,12 @@
   contents:
     - title: Code Generation and Optimization
       items: 
-        - through polyhedral compilation techniques. Related publications include <a href='../cc2018-paper.pdf'>CC 2018</a>, <a href='../assets/pdf/taco2019.pdf'>TACO 2019</a> etc.
-        - for high-performance architectures. Related publications
+        - through polyhedral compilation techniques. Related publications include <a href='../cc2018-paper.pdf'>CC 2018</a>, <a href='../assets/pdf/taco2019.pdf'>TACO 2019</a>, , <a href='../assets/pdf/micro2020-paper.pdf'>MICRO 2020</a>, etc.
+        - for high-performance architectures. Related publications are <a href='../assets/pdf/ics2019-paper.pdf'>ICS 2018</a>, <a href='../assets/pdf/icpp2022-paper.pdf'>ICPP 2022</a>, etc.
     - title: Deep learning compilers
+      items:
+        - for graph node scheduling. Related publications include <a href='../assets/pdf/mlsys2022-paper.pdf'>MLSys 2022</a>.
+        - for tensor loop transformations. Related publications include <a href='../assets/pdf/pldi2021-paper.pdf'>PLDI 2021</a>, <a href='../assets/pdf/pact2022-paper.pdf'>PACT 2022</a>,etc.
     - title: Numerical Program Analysis
 
 - title: Grants
