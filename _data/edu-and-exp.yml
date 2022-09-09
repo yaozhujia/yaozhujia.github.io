@@ -1,7 +1,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD degree
+    - title: PhD
       institution: PSL Research University (obtained at École Normale Supérieure), Paris, French
       year: 2018
       PhD thesis: A Combined Language and Polyhedral Approach for Heterogeneous Parallelism
@@ -11,12 +11,12 @@
           #contents:
             #- Sub-description 1.
             #- Sub-description 2.
-    - title: Master's degree
+    - title: MSc
       institution: National Digital Switching System Engineering &amp; Technological Research Center, Zhengzhou, China
       year: 2012
       #ms thesis: A Combined Language and Polyhedral Approach for Heterogeneous Parallelism
-    - title: Bachalor's degree
-      institution: Tsinghua University, Beijing, China
+    - title: BSc
+      institution: <a href='http://www.cs.tsinghua.edu.cn/'>Department of Computer Science and Technology</a>, <a href='http://www.tsinghua.edu.cn、'>Tsinghua University</a>, Beijing, China
       year: 2005
       #ms thesis: A Combined Language and Polyhedral Approach for Heterogeneous Parallelism
 

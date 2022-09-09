@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/
+permalink: /education-and-experience/
 title: Education &amp; Experience
 nav: true
 nav_order: 1
