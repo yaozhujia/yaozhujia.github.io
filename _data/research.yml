@@ -3,7 +3,7 @@
   contents:
     - title: Code Generation and Optimization
       items: 
-        - through polyhedral approaches,
+        - through polyhedral compilation techniques, building more systematic code generators. See our etc. papers.
         - for high-performance architectures.
     - title: Deep learning compilers
     - title: Numerical Program Analysis
