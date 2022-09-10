@@ -2,7 +2,8 @@
 layout: cv
 permalink: /cv/
 title: CV
+description: The curriculum vitae of Dr. Jie Zhao is also available in the pdf link on the right.
 nav: true
 nav_order: 5
-#cv_pdf: example_pdf.pdf
+cv_pdf: cv.pdf
 ---
