@@ -8,12 +8,13 @@
     - title: Deep Learning Systems
       items:
         - Frameworks for deploying deep learning workloads on distributed architectures. Please refer to the <a href='https://yaozhujia.github.io/assets/pdf/arxiv2021-oneflow.pdf'>arxiv preprint 2021</a> for the OneFlow framework.
-        - Graph compilers that study the fusion of graph nodes. For instance, the <a href='https://yaozhujia.github.io/assets/pdf/mlsys2022-paper.pdf'>MLSys 2022</a> and <a href='https://yaozhujia.github.io/assets/pdf/hpca2023-paper.pdf'>HPCA 2023</a> papers are such examples.
+        #- Graph compilers that study the fusion of graph nodes. For instance, the <a href='https://yaozhujia.github.io/assets/pdf/mlsys2022-paper.pdf'>MLSys 2022</a> and <a href='https://yaozhujia.github.io/assets/pdf/hpca2023-paper.pdf'>HPCA 2023</a> papers are such examples.
+        - Graph compilers that study the fusion of graph nodes. For instance, the <a href='https://yaozhujia.github.io/assets/pdf/mlsys2022-paper.pdf'>MLSys 2022</a> paper is such an example.
         - Operator compilers that investigate automatic loop transformations and memory managements for tensor operations. See the <a href='https://yaozhujia.github.io/assets/pdf/pldi2021-paper.pdf'>PLDI 2021</a> and <a href='https://yaozhujia.github.io/assets/pdf/pact2022-paper.pdf'>PACT 2022</a> papers for more details.
     - title: Numerical Program Analysis
       items:
-        - Floating-point error detection, e.g., the <a href='https://yaozhujia.github.io/assets/pdf/pldi2023-paper.pdf'>PLDI 2023</a> paper.
-        - Repairing numerical programs through expression rewriting. A published paper regarding this issue is available at <a href='https://yaozhujia.github.io/assets/pdf/popl2023-paper.pdf'>POPL 2023</a>.
+        - Floating-point error detection. #, e.g., the <a href='https://yaozhujia.github.io/assets/pdf/pldi2023-paper.pdf'>PLDI 2023</a> paper.
+        - Repairing numerical programs through expression rewriting. # A published paper regarding this issue is available at <a href='https://yaozhujia.github.io/assets/pdf/popl2023-paper.pdf'>POPL 2023</a>.
     #- title: Quantum Computing
     #  items:
     #    - Beginner for this emerging research area. Achievements will be released soon...
