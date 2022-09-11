@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: This page collects a(n incomplete) list of open-source projects that Dr. Jie Zhao has ever involved in. Some of them are/were maintained by companies and some are repositories of research projects.
 nav: true
 nav_order: 4
 # display_categories: [work, fun]
