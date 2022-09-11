@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sunway GEMM Code Generator
+title: Sunway GEMM Codegen
 description: A code generator for generating high-performance matrix multiplication kernels for SW26010-Pro, a processor that will be employed by the next generation of the Sunway TaihuLight supercomputer.
 img: assets/img/swgemm-arch.png
 importance: 1
