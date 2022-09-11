@@ -12,5 +12,5 @@ category: Deep Learning Systems
     </div>
 </div>
 <div class="caption">
-    OneFlow is a joint project with OneFlow Research, publicly accessible at <a href='https://github.com/Oneflow-Inc/oneflow'>Github</a>. It is achived at <a href='../assets/pdf/arxiv2021-oneflow.pdf'>arxiv preprint 2021</a>.
+    This picture shows how data movements take place when a computational graph (logical view) is deloyed on distributed devices. OneFlow is a joint project with OneFlow Research, publicly accessible at <a href='https://github.com/Oneflow-Inc/oneflow'>Github</a>. It is achived at <a href='../assets/pdf/arxiv2021-oneflow.pdf'>arxiv preprint 2021</a>.
 </div>
