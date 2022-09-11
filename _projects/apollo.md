@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Apollo
-description: Apollo is the graph compiler, one of the main components of the Huawei MindSpore ecosystem. Its primary objective is to merge the nodes of a computational graph of a neural network.
+description: Apollo is the graph compiler of the Huawei MindSpore ecosystem. Its primary objective is to merge the nodes of a computational graph of a neural network.
 img: assets/img/apollo-arch.png
 importance: 1
 category: Deep Learning Systems
