@@ -5,7 +5,7 @@ permalink: /projects/
 description: This page collects a(n incomplete) list of open-source projects that Dr. Jie Zhao has ever involved in. Some of them are/were maintained by companies and some are repositories of research projects.
 nav: true
 nav_order: 4
-display_categories: [Code Generation and Optimization, Deep Learning Systems, Numerical Program Analysis]
+#display_categories: [Code Generation and Optimization, Deep Learning Systems, Numerical Program Analysis]
 horizontal: false
 ---
 
