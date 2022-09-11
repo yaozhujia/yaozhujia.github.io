@@ -12,5 +12,5 @@ category: Deep Learning Systems
     </div>
 </div>
 <div class="caption">
-    This is an overivew of the AKG project. The official website is maintained at <a href='https://gitee.com/mindspore/akg'>Gitee</a>, where the code can be cloned. If AKG happens to contribute to your research, please cite the related <a href='../assets/pdf/micro2020-paper.pdf'>MICRO 2020</a>, <a href='../assets/pdf/pldi2021-paper.pdf'>PLDI 2021</a> and <a href='../assets/pdf/pact2022-paper.pdf'>PACT 2022</a> publications.
+    This is an overivew of the AKG project. The official website is maintained at <a href='https://gitee.com/mindspore/akg'>Gitee</a>, where the code can be cloned. If AKG happens to contribute to your research, please cite the related <a href='https://yaozhujia.github.io/assets/pdf/micro2020-paper.pdf'>MICRO 2020</a>, <a href='https://yaozhujia.github.io/assets/pdf/pldi2021-paper.pdf'>PLDI 2021</a> and <a href='https://yaozhujia.github.io/assets/pdf/pact2022-paper.pdf'>PACT 2022</a> publications.
 </div>
