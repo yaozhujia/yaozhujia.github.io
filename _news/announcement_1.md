@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-09-06 16:00:00+0800
+date: 2022-12-30 20:30:00+0800
 inline: true
 ---
 
-Dr. Jie Zhao plans to quit SKL-MEAC and is looking for research faculty (preferred) or industry job opportunities, with the starting date possibly from mid 2023 or later. Please <a href="mailto:yaozhujiajie@gmail.com">contact him</a> if you think his research experience matches your expectation.
+Dr. Jie Zhao is to quit SKL-MEAC and looking for research faculty (preferred) or industry job opportunities, with the starting date possibly from mid 2023 or later. Please <a href="mailto:yaozhujiajie@gmail.com">contact him</a> if you think his research experience matches your expectation.
