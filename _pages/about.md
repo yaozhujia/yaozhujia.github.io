@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: Lecturer (Assistant Professor) at SKL-MEAC, Zhengzhou, 450002, P.R. China.
+subtitle: Lecturer (Assistant Professor) at SKL-MEAC, Infomation Engineering University, Zhengzhou, 450001, P.R. China.
 
 profile:
   align: right

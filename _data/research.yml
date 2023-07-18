@@ -8,7 +8,7 @@
     - title: Deep Learning Systems
       items:
         - Frameworks for deploying deep learning workloads on distributed architectures. Related publications&#58; <a href='https://yaozhujia.github.io/assets/pdf/arxiv2021-oneflow.pdf'>arxiv preprint 2021</a>.
-        - Graph compilers that study the fusion of graph nodes. Related publications&#58; <a href='https://yaozhujia.github.io/assets/pdf/mlsys2022-paper.pdf'>MLSys 2022</a> and <a href='https://yaozhujia.github.io/assets/pdf/osdi2023-paper.pdf'>OSDI 2023</a>.
+        - Graph compilers that study the fusion of graph nodes. Related publications&#58; <a href='https://yaozhujia.github.io/assets/pdf/mlsys2022-paper.pdf'>MLSys 2022</a>, <a href='https://yaozhujia.github.io/assets/pdf/osdi2023-paper.pdf'>OSDI 2023</a>.
         - Operator compilers that investigate automatic loop transformations and memory managements for tensor operations. Related publications&#58; <a href='https://yaozhujia.github.io/assets/pdf/pldi2021-paper.pdf'>PLDI 2021</a>, <a href='https://yaozhujia.github.io/assets/pdf/pact2022-paper.pdf'>PACT 2022</a>.
     - title: Numerical Program Analysis
       items:
