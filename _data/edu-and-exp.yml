@@ -8,13 +8,13 @@
         - Supervisor&#58; <a href='https://who.rocq.inria.fr/Albert.Cohen/'>Prof. Albert Cohen</a>.
         - <a href='../assets/pdf/thesis.pdf'>PhD thesis</a>.
     - title: PhD
-      institution: National Digital Switching System Engineering &amp; Technological Research Center, Information Engineering University, Zhengzhou, China
+      institution: Information Engineering University, Zhengzhou, China
       year: 2016.06
       description:
         - Supervisor&#58; <a href='mailto:rczhao126@126.com'>Prof. Rongcai Zhao</a>.
         - PhD thesis was written in Chinese and can be offered when required.
     - title: MPhil
-      institution: National Digital Switching System Engineering &amp; Technological Research Center, Information Engineering University, Zhengzhou, China
+      institution: Information Engineering University, Zhengzhou, China
       year: 2012.06
       description:
         - Supervisor&#58; <a href='mailto:rczhao126@126.com'>Prof. Rongcai Zhao</a>.
@@ -27,11 +27,11 @@
   type: time_table
   contents:
     - title: Lecturer
-      institution: State Key Laboratory of Mathematical Engineering and Advanced Computing, Information Engineering University, Zhengzhou, China
+      institution: Information Engineering University, Zhengzhou, China
       year: 2019.01 - 2022.12
 
     - title: Cooperator
-      institution: <a href='https://www.streamcomputing.com/'>Streaming Computing Co., Ltd.</a>, Hangzhou, China
+      institution: <a href='https://www.streamcomputing.com/'>Stream Computing Co., Ltd.</a>, Hangzhou, China
       year: 2021.04 - 2023.03
 
     - title: Cooperator
@@ -39,7 +39,7 @@
       year: 2019.02 - 2021.12
 
     - title: Cooperator
-      institution: <a href='https://www.alibaba.com/'>Alibaba Group</a>, China
+      institution: <a href='https://www.alibaba.com/'>Alibaba Group</a>, Beijing, China
       year: 2020.04 - 2021.03
 
     - title: Cooperator
