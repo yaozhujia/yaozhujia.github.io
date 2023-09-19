@@ -12,7 +12,7 @@
         - Operator compilers that investigate automatic loop transformations and memory managements for tensor operations. Related publications&#58; <a href='https://yaozhujia.github.io/assets/pdf/pldi2021-paper.pdf'>PLDI 2021</a>, <a href='https://yaozhujia.github.io/assets/pdf/pact2022-paper.pdf'>PACT 2022</a>, <a href='https://yaozhujia.github.io/assets/pdf/mlsys2023-paper.pdf'>MLSys 2023</a>.
     - title: Numerical Program Analysis
       items:
-        - Floating-point error detection, e.g., the <a href='https://yaozhujia.github.io/assets/pdf/ase2023-paper.pdf'>ASE 2023</a> paper.
+        - Floating-point error detection. Related publications&#58; <a href='https://yaozhujia.github.io/assets/pdf/ase2023-paper.pdf'>ASE 2023</a>.
         - Repairing numerical programs through expression rewriting. # A published paper regarding this issue is available at <a href='https://yaozhujia.github.io/assets/pdf/popl2023-paper.pdf'>POPL 2023</a>.
     #- title: Quantum Computing
     #  items:
