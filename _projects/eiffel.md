@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Eiffel: An FP Error Detection Tool
-description: A tool used to detect significant floating-point errors. Instead of search such significant floating-point errors, Eiffel infers the input ranges that triggers such errors via polynomial extrapolation. The input ranges inferred by Eiffel can work with program rewrite engines like Herbie.
+title: Eiffel
+description: Eiffel is a tool used to detect significant floating-point errors. Instead of search such significant floating-point errors, Eiffel infers the input ranges that triggers such errors via polynomial extrapolation. The input ranges inferred by Eiffel can work with program rewrite engines like Herbie.
 img: assets/img/eiffel-arch.png
 importance: 1
 category: Numerical Program Analysis
