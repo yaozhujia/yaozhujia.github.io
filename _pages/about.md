@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: Position&#58;Associate Professor<br>Affiliation&#58;<a href='http://cloudlab.ruc.edu.cn/index.htm'>Cloud and Big Data System Laboratory (CDSLab)</a>, <a href='http://info.ruc.edu.cn/Home/index.htm'>School of Information</a>, <a href='https://en.ruc.edu.cn/'>Remin University of China</a><br>Address&#58; No.59, Zhongguancun Street, Haidian District, Beijing, 100872, People's Republic of China.<br>Contact&#58; jiezhao AT ruc.edu.cn
+subtitle: Position&#58; Associate Professor<br>Affiliation&#58; <a href='http://cloudlab.ruc.edu.cn/index.htm'>CDSLab</a>, <a href='http://info.ruc.edu.cn/Home/index.htm'>School of Information</a>, <a href='https://en.ruc.edu.cn/'>Remin University of China</a><br>Contact&#58; jiezhao AT ruc.edu.cn<br>Address&#58;No.59, Zhongguancun Street, Haidian District, Beijing, 100872, People's Republic of China.
 
 profile:
   align: right
