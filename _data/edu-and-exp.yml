@@ -26,22 +26,30 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Lecturer
-      institution: Information Engineering University, Zhengzhou, China
-      year: 2019.01 - 2022.12
+    - title: Associate Professor
+      institution: <a href="http://info.ruc.edu.cn/Home/index.htm" style="text-decoration: none">School of Information</a>, <a href="https://en.ruc.edu.cn/" style="text-decoration: none">Remin University of China</a>, Beijing, China
+      year: 2023.09 - present
 
-    - title: Cooperator
+    - title: Lecturer
+      institution: School of Cyberspace Security, Information Engineering University, Zhengzhou, China
+      year: 2019.01 - 2023.07
+
+    - title: Part-time Cooperation
+      institution: <a href='https://www.huawei.com/en/'>Huawei Technologies Co., Ltd.</a>, Beijing, China
+      year: 2023.08 - present
+
+    - title: Part-time Cooperation
       institution: <a href='https://www.streamcomputing.com/'>Stream Computing Co., Ltd.</a>, Hangzhou, China
       year: 2021.04 - 2023.03
 
-    - title: Cooperator
-      institution: <a href='https://www.huawei.com/en/'>Huawei Technologies Co., Ltd.</a>, Hangzhou and Beijing, China
+    - title: Part-time Cooperation
+      institution: <a href='https://www.huawei.com/en/'>Huawei Technologies Co., Ltd.</a>, Hangzhou, China
       year: 2019.02 - 2021.12
 
-    - title: Cooperator
+    - title: Part-time Cooperation
       institution: <a href='https://www.alibaba.com/'>Alibaba Group</a>, Beijing, China
       year: 2020.04 - 2021.03
 
-    - title: Cooperator
+    - title: Part-time Cooperation
       institution: <a href='https://www.huawei.com/fr/'>Huawei Technologies France SASU</a>, Paris, France
       year: 2018.05 - 2018.09
