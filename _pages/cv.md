@@ -1,8 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV (English version)
-title: CV (Chinese version)
+title: CV
 description: The curriculum vitae of Jie Zhao is also available in a PDF format.
 nav: true
 nav_order: 5
