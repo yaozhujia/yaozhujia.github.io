@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OneFlow
-description: OneFlow is deep learning framework targeting training workloads on distributed architectures. It is maintained by OneFlow Research.
+description: OneFlow is a deep learning framework targeting training workloads on distributed architectures. It is maintained by OneFlow Research.
 img: assets/img/oneflow-datamove.png
 importance: 1
 category: Deep Learning Systems
