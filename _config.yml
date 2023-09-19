@@ -127,8 +127,8 @@ disqus_shortname: # put your disqus shortname
 
 collections:
   news:
-    # defaults:
-    #  layout: post
+    defaults:
+      layout: post
     output: true
     permalink: /news/:path/
   projects:
@@ -224,8 +224,7 @@ scholar:
   last_name: Zhao
   first_name: [Jie]
 
-  #style: apa
-  style: mla
+  style: apa
   locale: en
 
   source: /_bibliography/
