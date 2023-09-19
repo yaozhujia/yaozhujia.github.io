@@ -3,15 +3,18 @@ layout: about
 title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: Associate Professor, CDSLab, School of Information, Remin University of China. jiezhao AT ruc.edu.cn
+subtitle: Position&#58;Associate Professor  
+Affiliation&#58;<a href="http://cloudlab.ruc.edu.cn/index.htm" style="text-decoration: none">Cloud and Big Data System Laboratory (CDSLab)</a> affiliated to the <a href="http://info.ruc.edu.cn/Home/index.htm" style="text-decoration: none">School of Information</a>, <a href="https://en.ruc.edu.cn/" style="text-decoration: none">Remin University of China</a>  
+Address&#58; No.59, Zhongguancun Street, Haidian District, Beijing, 100872, People's Republic of China.  
+Contact&#58; jiezhao AT ruc.edu.cn
 
 profile:
   align: right
   image: jiezhao-suit.jpg
   image_circular: true # crops the image to make it circular
-  address: >
-    <p>No. 59, Zhongguancun Street, Haidian District</p>
-    <p>Beijing, 100872, People's Republic of China.</p>
+  #address: >
+    #<p>No. 59, Zhongguancun Street, Haidian District</p>
+    #<p>Beijing, 100872, People's Republic of China.</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
