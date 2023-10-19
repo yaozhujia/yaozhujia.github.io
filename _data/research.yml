@@ -44,22 +44,30 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2020
+    - year: 2023.10
+      items: 
+        - ACM SIGHPC China Rising Star
+
+    - year: 2023.09
+      items: 
+        - Outstanding Young Scholar (A Class) of the Renmin University of China
+
+    - year: 2020.10
       items: 
         - IEEE/ACM MICRO-53 Best Paper Nominees
 
-    - year: 2019
+    - year: 2019.08
       items: 
         - HPC China 2019 Outstanding Paper Award
 
-    - year: 2017
+    - year: 2017.11
       items: 
         - SIGPLAN Grant for PLDI 2017
 
-    - year: 2016
+    - year: 2016.04
       items: 
         - SIGPLAN PLMW Scholarship for OOPSLA 2016
 
-    - year: 2013
+    - year: 2013.01
       items: 
-        - Excellent MSc Dissertation Award, 1st place
+        - Excellent MPhil Dissertation Award, 1st place
