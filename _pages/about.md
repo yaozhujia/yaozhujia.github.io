@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: Position&#58; Professor<br>Affiliation&#58; <a href='http://csee.hnu.edu.cn/home.htm'>College of Computer Science and Electronic Engineering</a>, <a href='http://www-en.hnu.edu.cn/'>Renmin University of China</a><br>Contact&#58; jiezhao AT hnu.edu.cn<br>Address&#58; Lushan Road (S), Yuelu District, Changsha, 410082, China.
+subtitle: Position&#58; Professor<br>Affiliation&#58; <a href='http://csee.hnu.edu.cn/home.htm'>College of Computer Science and Electronic Engineering</a> at <a href='http://www-en.hnu.edu.cn/'>Hunan University</a><br>Contact&#58; jiezhao AT hnu.edu.cn<br>Address&#58; Lushan Road (S), Yuelu District, Changsha, 410082, China.
 
 profile:
   align: right
