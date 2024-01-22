@@ -12,5 +12,5 @@ category: Numerical Program Analysis
     </div>
 </div>
 <div class="caption">
-    The architecture decipts how Eiffel works, and the open-source repository is available at <a href='https://github.com/zuoyanzhang/EIFFEL'>GitHub</a> maintained by the primary author <a href='https://zuoyanzhang.github.io/zuoyanz/'>Zuoyan Zhang</a>. The related paper was published and presented at <a href='https://yaozhujia.github.io/assets/pdf/ase2023-paper.pdf'>ASE 2023</a>.
+    The architecture decipts how Eiffel works, and the open-source repository is available at <a href='https://github.com/zuoyanzhang/EIFFEL'>GitHub</a> maintained by the primary author <a href='https://zuoyanzhang.github.io/zuoyanz/'>Zuoyan Zhang</a>. The related paper was published and presented at <a href='https://ieeexplore.ieee.org/document/10298397'>ASE 2023</a>.
 </div>

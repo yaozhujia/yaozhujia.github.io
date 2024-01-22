@@ -12,5 +12,5 @@ category: Code Generation and Optimization
     </div>
 </div>
 <div class="caption">
-    The architecture shows how this code generator works, and the open-source repository is available at <a href='https://gitee.com/tao-jinxuan/swcodegen'>Gitee</a>, which is maintained by the primary author <a href='mailto:txh_0119@126.com'>Dr. Xiaohan Tao</a>. The related paper was published and presented at <a href='https://yaozhujia.github.io/assets/pdf/icpp2022-paper.pdf'>ICPP 2022</a>.
+    The architecture shows how this code generator works, and the open-source repository is available at <a href='https://gitee.com/tao-jinxuan/swcodegen'>Gitee</a>, which is maintained by the primary author <a href='mailto:txh_0119@126.com'>Dr. Xiaohan Tao</a>. The related paper was published and presented at <a href='https://dl.acm.org/doi/10.1145/3545008.3545031'>ICPP 2022</a>.
 </div>
