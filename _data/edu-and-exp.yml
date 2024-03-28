@@ -1,13 +1,13 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD (Mathematics)
       institution: <a href='https://psl.eu/'>PSL Research University</a> (pursued at the <a href='http://www.di.ens.fr'>Département d'Informatique</a> of <a href='http://www.ens.fr'>École Normale Supérieure</a>), Paris, France
       year: 2018.12
       description:
         - Supervisor&#58; <a href='https://who.rocq.inria.fr/Albert.Cohen/'>Prof. Albert Cohen</a>.
         - <a href='../assets/pdf/thesis.pdf'>PhD thesis</a>.
-    - title: PhD
+    - title: PhD (Computer Science)
       institution: Information Engineering University, Zhengzhou, China
       year: 2016.06
       description:
@@ -40,7 +40,7 @@
 
     - title: Part-time Cooperation
       institution: <a href='https://www.huawei.com/en/'>Huawei Technologies Co., Ltd.</a>, Beijing, China
-      year: 2023.08 - 
+      year: 2023.08 - now 
 
     - title: Part-time Cooperation
       institution: <a href='https://www.streamcomputing.com/'>Stream Computing Co., Ltd.</a>, Hangzhou, China
