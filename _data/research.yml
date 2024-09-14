@@ -13,7 +13,7 @@
     - title: Numerical Program Analysis
       items:
         - Floating-point error detection. Related publications&#58; <a href='https://ieeexplore.ieee.org/document/10298397'>ASE 2023</a>.
-        - Repairing numerical programs through expression rewriting&#58; <a href='https://dl.acm.org/doi/10.1145/3650212.3680378'>ASE 2023</a>.
+        - Repairing numerical programs through expression rewriting&#58; <a href='https://dl.acm.org/doi/10.1145/3650212.3680378'>ISSTA 2024</a>.
     #- title: Quantum Computing
     #  items:
     #    - Beginner for this emerging research area. Achievements will be released soon...
