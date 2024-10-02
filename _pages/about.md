@@ -7,7 +7,7 @@ subtitle: Position&#58; Professor<br>Affiliation&#58; <a href='http://csee.hnu.e
 
 profile:
   align: right
-  image: jiezhao-suit.jpg
+  image: jiezhao-hpcchina2024.jpg
   image_circular: true # crops the image to make it circular
   #address: >
     #<p>Lushan Road (S), Yuelu District</p>
