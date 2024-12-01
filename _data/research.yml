@@ -21,6 +21,12 @@
 - title: Funding &amp; Grants
   type: time_table
   contents:
+    - title: Research on Key Technologies for an Integrated Architecture of Communication, Perception, and Computation in Edge Supercomputing
+      year: 2025.01 - 2028.12
+      description:
+        - National Natural Science Foundation of China (Grant No. U24A20235)
+        - Principal Investigator
+        - <span>&#165;</span> 2,600,000
     - title: Design Automation of Integrated Circuits for Intelligent Chips
       year: 2025.01 - 2027.12
       description:
