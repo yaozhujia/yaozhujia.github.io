@@ -21,6 +21,10 @@
 - title: Funding &amp; Grants
   type: time_table
   contents:
+    - title: Auotmatic Search for Fine-Grained Computation-Communication Overlapping Opportunities
+        - Huawei Technologies (Agreement No. TC20251120013)
+        - Principal Investigator
+        - <span>&#165;</span> 927,000
     - title: Intelligent Compilation and Optimization Techniques for Supernode Parallelism Strategies
       year: 2025.01 - 2026.12
       description:
